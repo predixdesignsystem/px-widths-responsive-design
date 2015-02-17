@@ -1,4 +1,4 @@
-px-responsive-widths-design
+px-widths-responsive-design
 ===========================
 
-The px widths-responsive module is an extension of the default widths module.
+The Predix Experience widths-responsive module is an extension of the default widths module.
