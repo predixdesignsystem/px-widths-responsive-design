@@ -2,7 +2,8 @@
   "name": "px-widths-responsive-design",
   "version": "0.0.1",
   "authors": [
-    "General Electric"
+    "General Electric",
+    "Harry Roberts <harry@csswizardry.com>"
   ],
   "description": "The Predix Experience widths-responsive module is an extension of the default widths module.",
   "main": "_trumps.widths-responsive.scss",
