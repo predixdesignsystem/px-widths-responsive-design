@@ -1,9 +1,8 @@
 # Widths Responsive
 
-The Predix Experience Widths Responsive module is an extension of the default [px-widths-design](https://github.sw.ge.com/pxc/px-widths-design) module.  This module is a fork of inuitcss' [widths-responsive](https://github.com/inuitcss/trumps.widths-responsive) module.
+The Predix Experience Widths Responsive module is an extension of the default [px-widths-design](https://github.sw.ge.com/pxc/px-widths-design) module and provides breakpoint-based classes for widths on elements. This module is a fork of inuitcss' [widths-responsive](https://github.com/inuitcss/trumps.widths-responsive) module.
 
-The Widths Responsive module loops through the breakpoints defined in inuitcss' [settings.responsive](https://github.com/inuitcss/settings.responsive) to generate prefixed breakpoint-based classes. If you are using inuitcss’ default breakpoints, you will be given classes like
-`lap-and-up-1/4`, or `desk-one-half`, etc.
+The Widths Responsive module loops through the breakpoints defined in inuitcss' [settings.responsive](https://github.com/inuitcss/settings.responsive) to generate prefixed breakpoint-based classes. If you are using inuitcss’ default breakpoints, you will be given classes like `lap-and-up-1/4`, or `desk-one-half`, etc.
 
 Widths Responsive will inherit the same settings used for the Widths module (i.e. namespaces and fraction vs. spoken-word format).
 
