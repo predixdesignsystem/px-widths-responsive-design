@@ -6,11 +6,11 @@
  * Responsive width classes based on your responsive settings.
  */
 
-@import "inuit-defaults/settings.defaults";
-@import "inuit-responsive-settings/settings.responsive";
-@import "px-functions-design/sass/tools.functions";
-@import "inuit-responsive-tools/tools.responsive";
-@import "px-widths-design/sass/trumps.widths";
+@import "../inuit-defaults/settings.defaults";
+@import "../inuit-responsive-settings/settings.responsive";
+@import "../px-functions-design/tools.functions";
+@import "../inuit-responsive-tools/tools.responsive";
+@import "../px-widths-design/trumps.widths";
 
 @if import-once('trumps.widths-responsive') {
 
