@@ -27,7 +27,8 @@
     "inuit-defaults": "~0.2.1",
     "inuit-responsive-settings": "~0.1.2",
     "inuit-responsive-tools": "~0.1.1",
+    "px-functions-design": "git://github.sw.ge.com/pxc/px-functions-design.git#master",
     "px-widths-design": "git://github.sw.ge.com/pxc/px-widths-design.git#master",
-    "px-functions-design": "git://github.sw.ge.com/pxc/px-functions-design.git#master"
+    "px-widths-tools-design": "git://github.sw.ge.com/pxc/px-widths-tools-design.git#master"
   }
 }
