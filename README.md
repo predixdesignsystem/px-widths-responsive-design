@@ -14,7 +14,7 @@ For example, a `$breakpoint` named `desk` which defines a media-query for viewpo
 
 Px's Widths Responsive module depends on six other Px and inuitcss modules:
 
-* [settings.defaults](https://github.com/inuitcss/settings.defaults)
+* [px-defaults-design](https://github.sw.ge.com/PXd/px-defaults-design)
 * [settings.responsive](https://github.com/inuitcss/settings.responsive)
 * [px-functions-design](https://github.sw.ge.com/PXd/px-functions-design)
 * [tools.responsive](https://github.com/inuitcss/tools.responsive)
