@@ -1,26 +1,20 @@
-/*------------------------------------*\
-    #PX-WIDTHS-RESPONSIVE-DESIGN
-\*------------------------------------*/
+////
+/// PX-WIDTHS-RESPONSIVE-DESIGN
+/// Defines helper classes for responsive widths based on breakpoints
+/// @group px-widths-responsive-design
+////
 
-/**
- * Responsive width classes based on your responsive settings.
- */
-
-@import "../px-defaults-design/settings.defaults";
 @import "../inuit-responsive-settings/settings.responsive";
-@import "../px-functions-design/tools.functions";
 @import "../inuit-responsive-tools/tools.responsive";
-@import "../px-widths-tools-design/tools.widths";
 @import "../px-widths-design/trumps.widths";
 
-// By default we will create wholes, halves, thirds, quarters, and fifths.
-// Predefine this Map to override.
+/// @type List [default] - By default we will create wholes, halves, thirds, quarters, and sixths. Predefine this Map to override.
 $inuit-widths-columns-responsive: (
     1,
     2,
     3,
     4,
-    5,
+    6,
 ) !default;
 
 @if import-once('trumps.widths-responsive') {
