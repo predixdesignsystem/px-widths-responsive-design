@@ -1,6 +1,6 @@
 {
   "name": "px-widths-responsive-design",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "authors": [
     "General Electric",
     "Harry Roberts <harry@csswizardry.com>"
@@ -14,7 +14,7 @@
     "widths"
   ],
   "license": "Apache 2",
-  "homepage": "git://github.sw.ge.com/PXd/px-widths-responsive-design.git",
+  "homepage": "git://github.build.ge.com/PXd/px-widths-responsive-design.git",
   "private": true,
   "ignore": [
     "**/.*",
@@ -24,11 +24,7 @@
     "tests"
   ],
   "dependencies": {
-    "inuit-responsive-settings": "~0.1.5",
     "inuit-responsive-tools": "~0.1.3",
-    "px-defaults-design": "git://github.sw.ge.com/PXd/px-defaults-design.git#~0.1.0",
-    "px-functions-design": "git://github.sw.ge.com/PXd/px-functions-design.git#~0.1.0",
-    "px-widths-design": "git://github.sw.ge.com/PXd/px-widths-design.git#~0.2.0",
-    "px-widths-tools-design": "git://github.sw.ge.com/PXd/px-widths-tools-design.git#~0.1.0"
+    "px-widths-design": "git://github.build.ge.com/PXd/px-widths-design.git#~0.2.0"
   }
 }
