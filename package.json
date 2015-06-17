@@ -1,6 +1,6 @@
 {
   "name": "px-widths-responsive-design",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "The Predix Experience widths-responsive module is an extension of the default widths module",
   "private": true,
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.build.ge.com/PXd/px-widths-responsive-design.git"
+    "url": "https://github.build.ge.com/PXd/px-widths-responsive-design.git"
   },
   "author": "General Electric",
   "license": "Apache 2",
