@@ -10,9 +10,7 @@ Based on the breakpoints defined in the `$breakpoints` Sass list, then widths de
 
 For example, a `$breakpoint` named `desk` which defines a media-query for viewports wider than 1024 pixels, the class `.u-1/2-desk` would apply a width of 50% on an element with a viewport above 1024 pixels. At narrower viewports `.u-1/2-desk` has no effect.
 
-## Sass Documentation
 
-You can review Sass Documentation here: https://github.com/pages/PredixDev/px-widths-responsive-design/sassdoc
 
 ## Dependencies
 
