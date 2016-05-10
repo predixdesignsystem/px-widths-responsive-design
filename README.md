@@ -1,6 +1,6 @@
 # Widths Responsive
 
-The Predix Experience Widths Responsive module is an extension of the default [px-widths-design](https://github.com/PredixDev/px-widths-design) module and provides breakpoint-based classes for widths on elements. This module is a fork of inuitcss' [widths-responsive](https://github.com/inuitcss/trumps.widths-responsive) module.
+The Predix UI Widths Responsive module is an extension of the default [px-widths-design](https://github.com/PredixDev/px-widths-design) module and provides breakpoint-based classes for widths on elements. This module is a fork of inuitcss' [widths-responsive](https://github.com/inuitcss/trumps.widths-responsive) module.
 
 The Widths Responsive module loops through the breakpoints defined in inuitcss' [settings.responsive](https://github.com/inuitcss/settings.responsive) to generate prefixed breakpoint-based classes. If you are using inuitcss’ default breakpoints, you will be given classes like `u-1/4-lap-and-up`, or `u-1-of-2-desk`, etc.
 
@@ -29,9 +29,9 @@ The Widths Responsive module is also an upstream dependency in this meta kit:
 
 Install this module and its dependencies using bower:
 
-    bower install --save https://github.com/PredixDev/px-widths-responsive-design.git
+    bower install --save px-widths-responsive-design
 
-Once installed, `@import` into your project's Sass file in its Trumps layer:
+Once installed, `@import` into your project's Sass file in its **Trumps layer**:
 
     @import "px-spacing-responsive-design/_trumps.widths-responsive.scss";
 
@@ -67,3 +67,5 @@ Fifths:
 * `u-3/6-*|u-3-of-6-*`
 * `u-4/6-*|u-4-of-6-*`
 * `u-5/6-*|u-5-of-6-*`
+
+Please view the full API [here](http://predixdev.github.io/px-widths-responsive-design/sassdoc/)
