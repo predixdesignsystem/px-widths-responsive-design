@@ -1,4 +1,4 @@
-v0.3.7
+v0.3.8
 ==============================
 * updated oss notice, and readme file to point to github pages
 
