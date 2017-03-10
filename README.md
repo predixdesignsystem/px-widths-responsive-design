@@ -39,33 +39,31 @@ Once installed, `@import` into your project's Sass file in its **Trumps layer**:
 
 For each "breakpoint" set in inuitcss' [settings.responsive](https://github.com/inuitcss/settings.responsive) `$breakpoint` Sass list, the classes below will be appended i.e. `[breakpoint-name]-classname`. Width dimensions are set in Px's [Widths](https://github.com/PredixDev/px-widths-design) module.
 
-All widths are expressed in percentages, rounded to seven decimal points.
-
 Whole:
 
-* `u-1/1-*|u-1-of-1-*`
+* `u-1/1-*` or `u-1-of-1-*`
 
 Halves:
 
-* `u-1/2-*|u-1-of-1-*`
+* `u-1/2-*` or `u-1-of-1-*`
 
 Thirds:
 
-* `u-1/3-*|u-1-of-3-*`
-* `u-2/3-*|u-2-of-3-*`
+* `u-1/3-*` or `u-1-of-3-*`
+* `u-2/3-*` or `u-2-of-3-*`
 
 Quarters:
 
-* `u-1/4-*|u-1-of-4-*`
-* `u-2/4-*|u-2-of-4-*`
-* `u-3/4-*|u-3-of-4-*`
+* `u-1/4-*` or `u-1-of-4-*`
+* `u-2/4-*` or `u-2-of-4-*`
+* `u-3/4-*` or `u-3-of-4-*`
 
-Fifths:
+Sixths:
 
-* `u-1/6-*|u-1-of-6-*`
-* `u-2/6-*|u-2-of-6-*`
-* `u-3/6-*|u-3-of-6-*`
-* `u-4/6-*|u-4-of-6-*`
-* `u-5/6-*|u-5-of-6-*`
+* `u-1/6-*` or `u-1-of-6-*`
+* `u-2/6-*` or `u-2-of-6-*`
+* `u-3/6-*` or `u-3-of-6-*`
+* `u-4/6-*` or `u-4-of-6-*`
+* `u-5/6-*` or `u-5-of-6-*`
 
-Please view the full API [here](http://predixdev.github.io/px-widths-responsive-design/sassdoc/)
+Please view the full API [here](http://predixdev.github.io/px-widths-responsive-design/)

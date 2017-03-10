@@ -1,6 +1,10 @@
+v0.4.2
+==================
+* Add new demo, grunt to gulp, add issue templates, various other updates
+
 v0.4.1
 ==================
-* Update missed design depndencies
+* Update missed design dependencies
 
 v0.4.0
 ==============================
