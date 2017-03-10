@@ -1,3 +1,7 @@
+v0.4.3
+==================
+* attempt to fix travis ghp
+
 v0.4.2
 ==================
 * Add new demo, grunt to gulp, add issue templates, various other updates
