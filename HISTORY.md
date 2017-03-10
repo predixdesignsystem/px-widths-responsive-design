@@ -1,4 +1,4 @@
-v0.4.3
+v0.4.4
 ==================
 * attempt to fix travis ghp
 
