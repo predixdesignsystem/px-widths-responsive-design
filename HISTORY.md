@@ -1,6 +1,10 @@
+v1.0.0
+==================
+* Pick up redesigned dependencies
+
 v0.4.4
 ==================
-* attempt to fix travis ghp
+* Attempt to fix travis ghp
 
 v0.4.2
 ==================
