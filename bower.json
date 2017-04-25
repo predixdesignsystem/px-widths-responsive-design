@@ -16,6 +16,7 @@
   "homepage": "https://github.com/PredixDev/px-widths-responsive-design.git",
   "private": false,
   "ignore": [
+    "*.enc",
     "**/.*",
     "node_modules",
     "bower_components",
