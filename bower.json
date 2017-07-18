@@ -34,7 +34,7 @@
     "LICENSE.md"
   ],
   "dependencies": {
-    "inuit-responsive-tools": "~0.1.3",
+    "px-helpers-design": "^1.0.0",
     "px-widths-design": "^1.0.0"
   },
   "devDependencies": {

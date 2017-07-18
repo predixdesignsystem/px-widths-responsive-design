@@ -2,7 +2,7 @@
     {
         "description": "By default we will create wholes, halves, thirds, quarters, and sixths. Predefine this Map to override.\n",
         "commentRange": {
-            "start": 11,
+            "start": 10,
             "end": 13
         },
         "context": {
@@ -19,6 +19,9 @@
             "px-widths-responsive-design:variables:style"
         ],
         "type": "List [default]",
+        "todo": [
+            "n/a"
+        ],
         "access": "public",
         "file": {
             "path": "_trumps.widths-responsive.scss",
