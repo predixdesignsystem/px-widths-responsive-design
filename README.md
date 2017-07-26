@@ -1,10 +1,10 @@
-# Widths Responsive
+# px-widths-responsive-design
 
-The Predix UI Widths Responsive module is an extension of the default [px-widths-design](https://github.com/PredixDev/px-widths-design) module and provides breakpoint-based classes for widths on elements. This module is a fork of inuitcss' [widths-responsive](https://github.com/inuitcss/trumps.widths-responsive) module.
+The Predix UI Widths Responsive module is an extension of the default [`px-widths-design`](https://github.com/PredixDev/px-widths-design) module and provides breakpoint-based classes for widths on elements. This module is a fork of inuitcss' [widths-responsive](https://github.com/inuitcss/trumps.widths-responsive) module.
 
-The Widths Responsive module loops through the breakpoints defined in inuitcss' [settings.responsive](https://github.com/inuitcss/settings.responsive) to generate prefixed breakpoint-based classes. If you are using inuitcss’ default breakpoints, you will be given classes like `u-1/4-lap-and-up`, or `u-1-of-2-desk`, etc.
+The `px-widths-responsive-design` module loops through the breakpoints defined in inuitcss' [settings.responsive](https://github.com/inuitcss/settings.responsive) to generate prefixed breakpoint-based classes. If you are using inuitcss’ default breakpoints, you will be given classes like `u-1/4-lap-and-up`, or `u-1-of-2-desk`, etc.
 
-Widths Responsive will inherit the same settings used for the Widths module (i.e. namespaces and fraction vs. spoken-word format).
+`Px-widths-responsive-design` will inherit the same settings used for the `px-widths-design` module (i.e. namespaces and fraction vs. spoken-word format).
 
 Based on the breakpoints defined in the `$breakpoints` Sass list, then widths determined by classes in your markup will be triggered.
 
@@ -14,14 +14,14 @@ For example, a `$breakpoint` named `desk` which defines a media-query for viewpo
 
 ## Dependencies
 
-Px's Widths Responsive module depends on one other Px and one other inuitcss modules:
+The `px-widths-responsive-design` module depends on one other Px module and one other inuitcss module:
 
 * [tools.responsive](https://github.com/inuitcss/tools.responsive)
 * [px-widths-design](https://github.com/PredixDev/px-widths-design)
 
-## Upstream dependency
+## Upstream dependencies
 
-The Widths Responsive module is also an upstream dependency in this meta kit:
+The `px-widths-responsive-design` module is also an upstream dependency in this meta kit:
 
 * [px-starter-kit-design](https://github.com/PredixDev/px-starter-kit-design)
 
@@ -66,4 +66,4 @@ Sixths:
 * `u-4/6-*` or `u-4-of-6-*`
 * `u-5/6-*` or `u-5-of-6-*`
 
-Please view the full API [here](http://predixdev.github.io/px-widths-responsive-design/)
+View the full API [here](http://predixdev.github.io/px-widths-responsive-design/).
