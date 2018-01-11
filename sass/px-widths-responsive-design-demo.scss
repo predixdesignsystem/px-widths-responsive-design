@@ -32,7 +32,7 @@ PAGE. IT SHOULD NOT PROVIDE RULES FOR THE MODULE.
 @import "px-viewport-design/_base.viewport.scss";
 
 // Component
-section[data-slot="demoHTML"] div {
+section[slot="demo-html"] div {
   height: $inuit-base-spacing-unit * 3;
   background-color: var(--px-width-demo-box-color, $salmon2);
   text-align: center;
