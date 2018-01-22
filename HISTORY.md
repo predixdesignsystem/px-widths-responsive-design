@@ -1,3 +1,7 @@
+v1.0.4
+==================
+* fix demo styling (#3)
+
 v1.0.3
 ==================
 * Upgrade docs to use Polymer 2.x, bump px-demo and px-sass-doc dependencies
